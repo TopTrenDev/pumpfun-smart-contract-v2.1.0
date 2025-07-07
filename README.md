@@ -56,7 +56,7 @@ Please leave any ideas and bugs on the issues.
     </a>
      <a href="https://x.com/tpptrendev" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-    <a href="https://t.me/toptrendev" target="_blank"><img alt="Telegram"
+    <a href="https://t.me/toptrendev_146" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
 
