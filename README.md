@@ -47,7 +47,7 @@ Please leave any ideas and bugs on the issues.
 </div>
 
 
-<h4> 📞 CONTACT WITH CONTRACT CREATOR 👆🏻 </h4>
+<h4> 📞 CONTACT WITH CONTRACT CREATOR </h4>
 
 <div style={{display : flex ; justify-content : space-evenly}}> 
     <a href="mailto:marekdvojak146@gmail.com" target="_blank">
